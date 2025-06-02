@@ -1,13 +1,13 @@
 /* ✅ tailwindcss를 사용하기 위한 초기 설정을 진행하신 후에 과제를 진행해 주세요. */
 
 /* App.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-section {
+/* section {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
   padding: 20px 40px;
-}
+} */
 
 /* Header.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
 .header-container {
