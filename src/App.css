@@ -10,7 +10,7 @@
 } */
 
 /* Header.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-.header-container {
+/* .header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -29,7 +29,7 @@ ul li {
   list-style: none;
   font-weight: 400;
   font-size: 13px;
-}
+} */
 
 /* Content.jsx 에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
 .content-container {
