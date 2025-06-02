@@ -32,7 +32,7 @@ ul li {
 } */
 
 /* Content.jsx 에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-.content-container {
+/* .content-container {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -61,4 +61,4 @@ ul li {
 .content-container p {
   font-size: 12px;
   color: rgb(160, 160, 160);
-}
+} */
